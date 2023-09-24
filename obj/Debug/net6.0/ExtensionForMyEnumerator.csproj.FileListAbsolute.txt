@@ -1,0 +1,15 @@
+C:\Users\koval\Desktop\Projekts\ExtensionForMyEnumerator\bin\Debug\net6.0\ExtensionForMyEnumerator.exe
+C:\Users\koval\Desktop\Projekts\ExtensionForMyEnumerator\bin\Debug\net6.0\ExtensionForMyEnumerator.deps.json
+C:\Users\koval\Desktop\Projekts\ExtensionForMyEnumerator\bin\Debug\net6.0\ExtensionForMyEnumerator.runtimeconfig.json
+C:\Users\koval\Desktop\Projekts\ExtensionForMyEnumerator\bin\Debug\net6.0\ExtensionForMyEnumerator.dll
+C:\Users\koval\Desktop\Projekts\ExtensionForMyEnumerator\bin\Debug\net6.0\ExtensionForMyEnumerator.pdb
+C:\Users\koval\Desktop\Projekts\ExtensionForMyEnumerator\obj\Debug\net6.0\ExtensionForMyEnumerator.csproj.AssemblyReference.cache
+C:\Users\koval\Desktop\Projekts\ExtensionForMyEnumerator\obj\Debug\net6.0\ExtensionForMyEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koval\Desktop\Projekts\ExtensionForMyEnumerator\obj\Debug\net6.0\ExtensionForMyEnumerator.AssemblyInfoInputs.cache
+C:\Users\koval\Desktop\Projekts\ExtensionForMyEnumerator\obj\Debug\net6.0\ExtensionForMyEnumerator.AssemblyInfo.cs
+C:\Users\koval\Desktop\Projekts\ExtensionForMyEnumerator\obj\Debug\net6.0\ExtensionForMyEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\koval\Desktop\Projekts\ExtensionForMyEnumerator\obj\Debug\net6.0\ExtensionForMyEnumerator.dll
+C:\Users\koval\Desktop\Projekts\ExtensionForMyEnumerator\obj\Debug\net6.0\refint\ExtensionForMyEnumerator.dll
+C:\Users\koval\Desktop\Projekts\ExtensionForMyEnumerator\obj\Debug\net6.0\ExtensionForMyEnumerator.pdb
+C:\Users\koval\Desktop\Projekts\ExtensionForMyEnumerator\obj\Debug\net6.0\ExtensionForMyEnumerator.genruntimeconfig.cache
+C:\Users\koval\Desktop\Projekts\ExtensionForMyEnumerator\obj\Debug\net6.0\ref\ExtensionForMyEnumerator.dll
