@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\koval\\Desktop\\Projekts\\ExtensionForMyEnumerator\\ExtensionForMyEnumerator.csproj": {}
+    "C:\\Users\\koval\\Desktop\\Projekts\\ExtensionForMyEnumerator\\ExtensionForGetMaxMethod\\ExtensionForGetMaxMethod.csproj": {}
   },
   "projects": {
-    "C:\\Users\\koval\\Desktop\\Projekts\\ExtensionForMyEnumerator\\ExtensionForMyEnumerator.csproj": {
+    "C:\\Users\\koval\\Desktop\\Projekts\\ExtensionForMyEnumerator\\ExtensionForGetMaxMethod\\ExtensionForGetMaxMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\koval\\Desktop\\Projekts\\ExtensionForMyEnumerator\\ExtensionForMyEnumerator.csproj",
-        "projectName": "ExtensionForMyEnumerator",
-        "projectPath": "C:\\Users\\koval\\Desktop\\Projekts\\ExtensionForMyEnumerator\\ExtensionForMyEnumerator.csproj",
+        "projectUniqueName": "C:\\Users\\koval\\Desktop\\Projekts\\ExtensionForMyEnumerator\\ExtensionForGetMaxMethod\\ExtensionForGetMaxMethod.csproj",
+        "projectName": "ExtensionForGetMaxMethod",
+        "projectPath": "C:\\Users\\koval\\Desktop\\Projekts\\ExtensionForMyEnumerator\\ExtensionForGetMaxMethod\\ExtensionForGetMaxMethod.csproj",
         "packagesPath": "C:\\Users\\koval\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\koval\\Desktop\\Projekts\\ExtensionForMyEnumerator\\obj\\",
+        "outputPath": "C:\\Users\\koval\\Desktop\\Projekts\\ExtensionForMyEnumerator\\ExtensionForGetMaxMethod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\koval\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
