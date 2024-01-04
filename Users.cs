@@ -11,9 +11,8 @@ namespace ExtensionForMyEnumerator
         private int _age;
         public int Age
         {
-            get { return _age; }
-            set
-            {
+            get{return _age;}
+            set{
                 if (value > 0 && value <= 120)
                     _age = value;
                 else

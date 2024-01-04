@@ -15,7 +15,6 @@ namespace ExtensionForMyEnumerator
             }
 
             var selectedNumbers = numbers.Top(30);
-
             Console.WriteLine(JsonSerializer.Serialize(selectedNumbers));
 
             var selectedUsers = users.Top(30, person => person.Age);
